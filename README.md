@@ -11,7 +11,7 @@ This is a small project focused on learning some basic skills on Arduino and PID
  * _My lack of experience with any of the above on Arduino_
  
  All this can be resumed in the following schematic:  
- ![](./To_do_workflow.png)
+ ![](./Task_workflow.png)
 
 Also the intended workflow of the system it's the following:  
 ![](./workflow.png)
